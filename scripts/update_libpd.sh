@@ -51,6 +51,7 @@ rm $SRC/pure-data/src/x_libpdreceive.*
 rm $SRC/pure-data/src/z_*.*
 
 # remove some other stuff we don't need ...
+rm $SRC/pure-data/src/m_dispatch_gen.c
 rm $SRC/pure-data/src/s_entry.c
 rm $SRC/pure-data/src/s_file.c
 rm $SRC/pure-data/src/s_watchdog.c
